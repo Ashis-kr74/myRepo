@@ -1,0 +1,22 @@
+
+#comments
+
+student1:
+  name: "Ashis kumar"
+  age: 22
+  mobile_no: 8294351510
+  subjects:
+    -math
+    -english
+  marks:
+    math: 90
+    english: 99
+
+student2:
+  name: "Vikash"
+  age: 22
+  addres: "patna"
+  subject:
+    -python
+    -english
+    
